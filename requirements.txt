@@ -88,6 +88,7 @@ stack-data==0.6.3
 str==0.1
 streamlit==1.39.0
 streamlit-aggrid==1.0.5
+streamlit-folium
 streamlit-option-menu==0.3.13
 tenacity==8.5.0
 tensorboard==2.16.2
